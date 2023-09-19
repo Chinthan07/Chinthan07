@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
-* 🧠  I'm learning React.js, Node.js and Ux design
+* 🧠  I'm learning React.js, Node.js and Ui design
 
 ### Skills
 

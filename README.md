@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chinthan B
 ==================================================================================================================================
+![](https://komarev.com/ghpvc/?username=Chinthan07&color=green)
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
 * 🧠  I am an aspiring developer:computer:.
 * ⚡  I am an undergraduate student pursuing CSE in NMAMIT.
-
-![](https://komarev.com/ghpvc/?username=Chinthan07&color=green)
 
   
 ### Skills

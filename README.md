@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
 * 🧠  I am an aspiring developer:computer:.
 * ⚡  I am an undergraduate student pursuing CSE in NMAMIT.
-
+[![](https://visitcount.itsvg.in/api?id=Chinthan07&label=Profile%20Views&color=4&icon=5&pretty=false)](https://visitcount.itsvg.in)
 ### Skills
 
 

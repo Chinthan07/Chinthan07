@@ -6,7 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I am an aspiring developer:computer:.
 * ⚡  I am an undergraduate student pursuing CSE in NMAMIT.
 
-* ![Profile Views](https://img.shields.io/github/Chinthan07?label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Chinthan07)
+
   
 ### Skills
 <p align="left">

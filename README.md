@@ -5,6 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
 * 🧠  I am an aspiring developer:computer:.
 * ⚡  I am an undergraduate student pursuing CSE in NMAMIT.
+
+* ![Profile Views](https://img.shields.io/github/followers/YourUsername?label=Profile%20Views)
   
 ### Skills
 <p align="left">

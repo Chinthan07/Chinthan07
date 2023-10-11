@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
-
+![](https://komarev.com/ghpvc/?username=Chinthan07&color=green)
 
 
 ### Skills

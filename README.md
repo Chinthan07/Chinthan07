@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chinthan B
 ==================================================================================================================================
-Aspiring Cybersecurity Professional🛡️🔒
-Aspiring Developer 🌐💻
-Blending Code and Creativity for Tomorrow's Innovations 🌟
+Aspiring Cybersecurity Professional🛡️🔒<br>
+Aspiring Developer 🌐💻<br>
+Blending Code and Creativity for Tomorrow's Innovations 🌟<br>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)

@@ -41,18 +41,6 @@ Blending Code and Creativity for Tomorrow's Innovations 🌟<br>
   </a>
 </p>
 
-<p align="left">
-  <a href="https://nmap.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nmap-colored.svg" width="36" height="36" alt="Nmap" />
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wireshark-colored.svg" width="36" height="36" alt="Wireshark" />
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metasploit-colored.svg" width="36" height="36" alt="Metasploit" />
-  </a>
-</p>
-
 
 
 ### Socials

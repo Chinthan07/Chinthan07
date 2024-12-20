@@ -61,11 +61,6 @@ Blending Code and Creativity for Tomorrow's Innovations 🌟<br>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center">
-<a href="[https://github.com/Chinthan07/CollegeMap](https://github.com/Chinthan07/Network_Vulnerability_Scanner)" align="left"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinthan07&repo=Netwrok_Vulnerability_Scanner&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-  </a>
-</div>
-
 </a><a href="https://github.com/Chinthan07/CollegeMap" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinthan07&repo=CollegeMap&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 

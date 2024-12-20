@@ -7,8 +7,10 @@ Blending Code and Creativity for Tomorrow's Innovations 🌟<br>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
-![Repository Views](https://komarev.com/ghpvc/?username=Chinthan07&color=green&style=plastic)
 <br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Chinthan07&color=green&style=plastic)
+
 ### Skills
 
 

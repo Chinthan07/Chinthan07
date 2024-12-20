@@ -65,3 +65,4 @@ Blending Code and Creativity for Tomorrow's Innovations 🌟<br>
 
 
 <div width="100%" align="center"><a href="https://github.com/Chinthan07/Electra_Erp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinthan07&repo=Electra_Erp&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Chinthan07/EZFit_FitnessApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinthan07&repo=EZFit_FitnessApp&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div>

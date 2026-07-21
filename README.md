@@ -19,7 +19,7 @@
 
 ### 🧭 About Me
 
-I'm an enthusiastic and adaptable Computer Science graduate, currently pursuing my **M.E. in Cybersecurity**, with a solid foundation in software development, algorithms, and core security principles. I enjoy picking up new tools quickly and value continuous learning and well-engineered solutions.
+I'm an enthusiastic and adaptable Computer Science graduate, currently pursuing my **M.E. in Cybersecurity**, with a foundational knowledge in software development, algorithms, and core security principles. I enjoy picking up new tools quickly and value continuous learning and well-engineered solutions.
 
 - 🛡️ Comfortable across offensive & defensive security, network security, and threat intelligence
 - 🌱 Always looking to sharpen my skills and grow as part of a good team
@@ -90,10 +90,8 @@ A fitness tracking application for everyday workout management.
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![OOPS](https://img.shields.io/badge/OOP-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 **Security & Networking**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)

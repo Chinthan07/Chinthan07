@@ -63,6 +63,9 @@ A tool for scanning and identifying vulnerabilities across a network.
 <td width="50%" valign="top">
 
 ### 🧰 Tech & Tools
+</td>
+</tr>
+</table>
 
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)

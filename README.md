@@ -4,9 +4,9 @@
 
 # Hi, I'm Chinthan B 👋
 
-### Cybersecurity Engineer in the making 🛡️ · ML for Threat Detection 🤖 · Builder of Secure Systems 💻
+### 🛡️ Cybersecurity Enthusiast | 💻 Software Developer | 🛡️ Defensive Security | 🌐 Network Security | 📚 Continuous Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=600&lines=M.E.+in+Cybersecurity+%40+MSIS%2C+MAHE+Manipal;Building+AI-Powered+Intrusion+Detection+Systems;Turning+Network+Traffic+into+Threat+Intelligence;Always+learning%2C+always+breaking+(ethically)+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=700&lines=🎓+M.E.+Cybersecurity+Graduate;🛡️+Cybersecurity+Enthusiast+%7C+💻+Software+Development Enthusiast;🔐+Passionate+about+Defensive+Security+%26+Network+Security;🤖+Exploring+AI+for+Cybersecurity+%7C+📚+Continuous+Learner" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinthanb)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/ChinthanBolumbu)
@@ -61,12 +61,11 @@ A tool for scanning and identifying vulnerabilities across a network.
 
 </td>
 <td width="50%" valign="top">
-
-### 🧰 Tech & Tools
 </td>
 </tr>
 </table>
 
+### 🧰 Tech & Tools
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)

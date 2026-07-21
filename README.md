@@ -19,14 +19,10 @@
 
 ### 🧭 About Me
 
-I'm an aspiring cybersecurity professional currently pursuing my **Master of Engineering in Cybersecurity** at the **Manipal School of Information Sciences (MSIS), MAHE Manipal** (2024–2026), building on a foundation of **Computer Science Engineering** from NMAM Institute of Technology.
+I'm an enthusiastic and adaptable Computer Science graduate, currently pursuing my **M.E. in Cybersecurity**, with a solid foundation in software development, algorithms, and core security principles. I enjoy picking up new tools quickly and value continuous learning and well-engineered solutions.
 
-I like problems that sit at the intersection of **networks, data, and defense** — reconstructing traffic into features, training models to tell friend from foe, and turning that into tools people can actually use.
-
-- 🔭 Currently building **IntelliGuard IDS**, an AI-powered Intrusion Detection System (my M.E. capstone)
-- 🌱 Deepening my skills in ML-driven threat detection, digital forensics, and SIEM/SOC operations
 - 🛡️ Comfortable across offensive & defensive security, network security, and threat intelligence
-- 💬 Ask me about intrusion detection, phishing detection with ML, or CICIDS-style flow features
+- 🌱 Always looking to sharpen my skills and grow as part of a good team
 - 🌍 Based in Mangalore, Karnataka, India
 - ✉️ Reach me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
 

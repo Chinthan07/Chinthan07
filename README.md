@@ -62,29 +62,6 @@ A tool for scanning and identifying vulnerabilities across a network.
 </td>
 <td width="50%" valign="top">
 
-**🎓 [CollegeMap](https://github.com/Chinthan07/CollegeMap)**
-A platform for navigating and discovering college-related information.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**⚡ [Electra ERP](https://github.com/Chinthan07/Electra_Erp)**
-An ERP solution built for streamlined resource planning.
-
-</td>
-<td width="50%" valign="top">
-
-**🏋️ [EZFit Fitness App](https://github.com/Chinthan07/EZFit_FitnessApp)**
-A fitness tracking application for everyday workout management.
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🧰 Tech & Tools
 
 **Languages**
@@ -99,7 +76,7 @@ A fitness tracking application for everyday workout management.
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network%20Security-DC143C?style=flat-square)
 
 **ML / Data**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)

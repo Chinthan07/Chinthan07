@@ -6,7 +6,7 @@
 
 ### 🛡️ Cybersecurity Enthusiast | 💻 Software Developer | 🛡️ Defensive Security | 🌐 Network Security | 📚 Continuous Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93%20M.E.%20Cybersecurity%20Graduate;%F0%9F%9B%A1%EF%B8%8F%20Cybersecurity%20Enthusiast%20Software%20Development%20Enthusiast;%F0%9F%94%90%20Passionate%20about%20Defensive%20Security%20%26%20Network%20Security;%F0%9F%A4%96%20Exploring%20AI%20for%20Cybersecurity%20%7C%20%F0%9F%93%9A%20Continuous%20Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=700&lines=%F0%9F%8E%93%20M.E.%20Cybersecurity%20Graduate;%F0%9F%9B%A1%EF%B8%8F%20Cybersecurity%20Enthusiast%20%7C%20%F0%9F%92%BB%20Software%20Development;%F0%9F%94%90%20Passionate%20about%20Defensive%20Security%20%26%20Network%20Security;%F0%9F%A4%96%20Exploring%20AI%20for%20Cybersecurity%20%7C%20%F0%9F%93%9A%20Continuous%20Learner" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinthanb)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/ChinthanBolumbu)

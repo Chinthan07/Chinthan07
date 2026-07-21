@@ -19,7 +19,7 @@
 
 ### 🧭 About Me
 
-I'm an enthusiastic and adaptable Computer Science graduate, currently pursuing my **M.E. in Cybersecurity**, with a foundational knowledge in software development, algorithms, and core security principles. I enjoy picking up new tools quickly and value continuous learning and well-engineered solutions.
+Enthusiastic Computer Science graduate who has completed a Master of Engineering in Cybersecurity, with a foundational understanding of software development and algorithms, and a broad understanding of core cybersecurity domains including offensive and defensive security, digital forensics, and threat intelligence. Highly motivated and adaptable, eager to apply knowledge and contribute to secure, resilient, and innovative solutions in cybersecurity.
 
 - 🛡️ Comfortable across offensive & defensive security, network security, and threat intelligence
 - 🌱 Always looking to sharpen my skills and grow as part of a good team
@@ -75,16 +75,10 @@ A tool for scanning and identifying vulnerabilities across a network.
 **Security & Networking**
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Network Security](https://img.shields.io/badge/Network%20Security-DC143C?style=flat-square)
-
-**ML / Data**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)

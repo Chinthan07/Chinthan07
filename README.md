@@ -27,28 +27,61 @@ Enthusiastic Computer Science graduate who has completed a Master of Engineering
 - ✉️ Reach me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
 
 ---
+# 🚀 Featured Projects
 
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/Chinthan07"> <h3>🛡️ IntelliGuard IDS</h3>
-AI-powered Intrusion Detection System classifying live and offline network traffic as malicious/benign.
-Real-time packet-capture flow engine (Scapy) reconstructing 21 CICIDS2018-style flow features
-Random Forest classifier (n_estimators=200) — 95% accuracy, 88.6% recall
-Hybrid decision engine blending ML confidence with heuristic rules to cut false negatives
-Streamlit app with live + CSV-based detection, analytics dashboards, and automated PDF reporting
+### 🛡️ IntelliGuard IDS
+> **AI-Powered Intrusion Detection System**
 
-<sub>🚧 Repo coming soon</sub>
+AI-powered IDS for real-time and offline network traffic analysis.
 
-</a> </td> <td width="50%" valign="top"> <a href="https://github.com/Chinthan07"> <h3>🎣 ML-Based Phishing Detection Platform</h3>
-Detects phishing URLs and emails by combining structural/lexical feature engineering with NLP.
-53 engineered URL features — Levenshtein typosquatting detection, homoglyph normalization, entropy scoring
-Random Forest (URLs) + TF-IDF/Logistic Regression (emails)
-Live threat intel via AbuseIPDB & VirusTotal APIs
-Streamlit app with bulk CSV analysis and confidence-scored predictions
+- 🔹 Real-time packet capture using **Scapy**
+- 🔹 Extracts **21 CICIDS2018-style flow features**
+- 🔹 **Random Forest** classifier (95% accuracy, 88.6% recall)
+- 🔹 Hybrid ML + rule-based decision engine
+- 🔹 Streamlit dashboard with analytics & PDF reports
 
-<sub>🚧 Repo coming soon</sub>
-</a> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://github.com/Chinthan07/Network_Vulnerability_Scanner"> <h3>🔍 Network Vulnerability Scanner</h3>
-A tool for scanning and identifying vulnerabilities across a network.
+<p>
+  <a href="https://github.com/Chinthan07">
+    <img src="https://img.shields.io/badge/Repository-Coming%20Soon-orange?style=for-the-badge">
+  </a>
+</p>
 
+---
+
+### 🎣 ML-Based Phishing Detection Platform
+> **URL & Email Phishing Detection**
+
+Machine learning platform for detecting phishing websites and emails.
+
+- 🔹 53 engineered URL features
+- 🔹 Levenshtein typo detection & homoglyph normalization
+- 🔹 Random Forest + TF-IDF Logistic Regression
+- 🔹 AbuseIPDB & VirusTotal integration
+- 🔹 Bulk CSV analysis with Streamlit
+
+<p>
+  <a href="https://github.com/Chinthan07">
+    <img src="https://img.shields.io/badge/Repository-Coming%20Soon-orange?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+### 🔍 Network Vulnerability Scanner
+> **Network Discovery & Security Assessment**
+
+Python-based network scanner for discovering hosts and identifying vulnerabilities.
+
+- 🔹 Host discovery & port scanning
+- 🔹 Service and version detection
+- 🔹 Vulnerability identification
+- 🔹 Automated scan reports
+
+<p>
+  <a href="https://github.com/Chinthan07/Network_Vulnerability_Scanner">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 ### 🧰 Tech & Tools
 **Languages**

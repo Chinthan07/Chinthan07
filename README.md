@@ -1,69 +1,154 @@
+<div align="center">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chinthan B
-==================================================================================================================================
-Aspiring Cybersecurity Professional🛡️🔒<br>
-Aspiring Developer 🌐💻<br>
-Blending Code and Creativity for Tomorrow's Innovations 🌟<br>
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100">
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
-<br>
+# Hi, I'm Chinthan B 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Chinthan07&color=green&style=plastic)
+### Cybersecurity Engineer in the making 🛡️ · ML for Threat Detection 🤖 · Builder of Secure Systems 💻
 
-### Skills
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=600&lines=M.E.+in+Cybersecurity+%40+MSIS%2C+MAHE+Manipal;Building+AI-Powered+Intrusion+Detection+Systems;Turning+Network+Traffic+into+Threat+Intelligence;Always+learning%2C+always+breaking+(ethically)+things" alt="Typing SVG" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chinthanb)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/ChinthanBolumbu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinthanbolumbu23@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Chinthan07&color=3382ed&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Chinthan07)
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />&nbsp
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />&nbsp
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />&nbsp
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />&nbsp
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />&nbsp
-  </a>
-  <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="Adobe XD" />&nbsp
-  </a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-  </a>
-</p>
-
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/chinthanbolumbu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
-<a href="https://www.github.com/Chinthan07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture>&nbsp
-</a> <a href="https://www.linkedin.com/in/chinthanb" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture>&nbsp
-</a> <a href="https://www.x.com/ChinthanBolumbu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Chinthan07"><img src="https://github-readme-stats.vercel.app/api?username=Chinthan07&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Chinthan07's GitHub stats" /></a>
-
-<a href="http://www.github.com/Chinthan07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinthan07&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Chinthan07"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chinthan07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Chinthan07" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinthan07&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-<div>
-</a><a href="https://github.com/Chinthan07/Network_Vulnerability_Scanner" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinthan07&repo=Network_Vulnerability_Scanner&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div>
-</a><a href="https://github.com/Chinthan07/CollegeMap" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinthan07&repo=CollegeMap&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 </div>
 
-<div width="100%" align="center"><a href="https://github.com/Chinthan07/Electra_Erp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinthan07&repo=Electra_Erp&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div>
-<div width="100%" align="center"><a href="https://github.com/Chinthan07/EZFit_FitnessApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Chinthan07&repo=EZFit_FitnessApp&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en" /></a></div>
+---
+
+### 🧭 About Me
+
+I'm an aspiring cybersecurity professional currently pursuing my **Master of Engineering in Cybersecurity** at the **Manipal School of Information Sciences (MSIS), MAHE Manipal** (2024–2026), building on a foundation of **Computer Science Engineering** from NMAM Institute of Technology.
+
+I like problems that sit at the intersection of **networks, data, and defense** — reconstructing traffic into features, training models to tell friend from foe, and turning that into tools people can actually use.
+
+- 🔭 Currently building **IntelliGuard IDS**, an AI-powered Intrusion Detection System (my M.E. capstone)
+- 🌱 Deepening my skills in ML-driven threat detection, digital forensics, and SIEM/SOC operations
+- 🛡️ Comfortable across offensive & defensive security, network security, and threat intelligence
+- 💬 Ask me about intrusion detection, phishing detection with ML, or CICIDS-style flow features
+- 🌍 Based in Mangalore, Karnataka, India
+- ✉️ Reach me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛡️ [IntelliGuard IDS](https://github.com/Chinthan07)**
+AI-powered Intrusion Detection System classifying live and offline network traffic as malicious/benign.
+- Real-time packet-capture flow engine (Scapy) reconstructing 21 CICIDS2018-style flow features
+- Random Forest classifier (n_estimators=200) — **95% accuracy, 88.6% recall**
+- Hybrid decision engine blending ML confidence with heuristic rules to cut false negatives
+- Streamlit app with live + CSV-based detection, analytics dashboards, and automated PDF reporting
+
+</td>
+<td width="50%" valign="top">
+
+**🎣 [ML-Based Phishing Detection Platform](https://github.com/Chinthan07)**
+Detects phishing URLs and emails by combining structural/lexical feature engineering with NLP.
+- 53 engineered URL features — Levenshtein typosquatting detection, homoglyph normalization, entropy scoring
+- Random Forest (URLs) + TF-IDF/Logistic Regression (emails)
+- Live threat intel via AbuseIPDB & VirusTotal APIs
+- Streamlit app with bulk CSV analysis and confidence-scored predictions
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 [Network Vulnerability Scanner](https://github.com/Chinthan07/Network_Vulnerability_Scanner)**
+A tool for scanning and identifying vulnerabilities across a network.
+
+</td>
+<td width="50%" valign="top">
+
+**🎓 [CollegeMap](https://github.com/Chinthan07/CollegeMap)**
+A platform for navigating and discovering college-related information.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ [Electra ERP](https://github.com/Chinthan07/Electra_Erp)**
+An ERP solution built for streamlined resource planning.
+
+</td>
+<td width="50%" valign="top">
+
+**🏋️ [EZFit Fitness App](https://github.com/Chinthan07/EZFit_FitnessApp)**
+A fitness tracking application for everyday workout management.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Tech & Tools
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Security & Networking**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat-square)
+
+**ML / Data**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chinthan07&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true" alt="Chinthan07's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinthan07&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinthan07&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chinthan07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Commit%20Activity" alt="GitHub Commits Graph" />
+</div>
+
+---
+
+### 🏆 Certifications
+
+- 🥇 **Bypass CTF** — Unstop Competition (Dec 2025)
+- 📜 **Google Cybersecurity Professional Certificate** — Coursera / Google (Feb 2025)
+- 🧪 **Cyber Analyst Job Simulation** — Forage / Tata Consultancy Services (Sep 2024)
+- 🔄 **Agile Methodology Job Simulation** — Forage / Cognizant (Aug 2023)
+
+---
+
+<div align="center">
+
+*Thanks for stopping by — feel free to explore my repos or connect with me!*
+
+</div>

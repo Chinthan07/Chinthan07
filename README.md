@@ -28,42 +28,27 @@ Enthusiastic Computer Science graduate who has completed a Master of Engineering
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🛡️ [IntelliGuard IDS](https://github.com/Chinthan07)**
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <a href="https://github.com/Chinthan07"> <h3>🛡️ IntelliGuard IDS</h3>
 AI-powered Intrusion Detection System classifying live and offline network traffic as malicious/benign.
-- Real-time packet-capture flow engine (Scapy) reconstructing 21 CICIDS2018-style flow features
-- Random Forest classifier (n_estimators=200) — **95% accuracy, 88.6% recall**
-- Hybrid decision engine blending ML confidence with heuristic rules to cut false negatives
-- Streamlit app with live + CSV-based detection, analytics dashboards, and automated PDF reporting
+Real-time packet-capture flow engine (Scapy) reconstructing 21 CICIDS2018-style flow features
+Random Forest classifier (n_estimators=200) — 95% accuracy, 88.6% recall
+Hybrid decision engine blending ML confidence with heuristic rules to cut false negatives
+Streamlit app with live + CSV-based detection, analytics dashboards, and automated PDF reporting
 
-</td>
-<td width="50%" valign="top">
+<sub>🚧 Repo coming soon</sub>
 
-**🎣 [ML-Based Phishing Detection Platform](https://github.com/Chinthan07)**
+</a> </td> <td width="50%" valign="top"> <a href="https://github.com/Chinthan07"> <h3>🎣 ML-Based Phishing Detection Platform</h3>
 Detects phishing URLs and emails by combining structural/lexical feature engineering with NLP.
-- 53 engineered URL features — Levenshtein typosquatting detection, homoglyph normalization, entropy scoring
-- Random Forest (URLs) + TF-IDF/Logistic Regression (emails)
-- Live threat intel via AbuseIPDB & VirusTotal APIs
-- Streamlit app with bulk CSV analysis and confidence-scored predictions
+53 engineered URL features — Levenshtein typosquatting detection, homoglyph normalization, entropy scoring
+Random Forest (URLs) + TF-IDF/Logistic Regression (emails)
+Live threat intel via AbuseIPDB & VirusTotal APIs
+Streamlit app with bulk CSV analysis and confidence-scored predictions
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔍 [Network Vulnerability Scanner](https://github.com/Chinthan07/Network_Vulnerability_Scanner)**
+<sub>🚧 Repo coming soon</sub>
+</a> </td> </tr> <tr> <td width="50%" valign="top"> <a href="https://github.com/Chinthan07/Network_Vulnerability_Scanner"> <h3>🔍 Network Vulnerability Scanner</h3>
 A tool for scanning and identifying vulnerabilities across a network.
 
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
 
 ### 🧰 Tech & Tools
 **Languages**

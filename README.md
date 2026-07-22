@@ -29,7 +29,7 @@ Enthusiastic Computer Science graduate who has completed a Master of Engineering
 ---
 # Featured Projects
 
-### IntelliGuard IDS
+### AI - Powered Intrusion Detection System
 > **AI-Powered Intrusion Detection System**
 
 AI-powered IDS for real-time and offline network traffic analysis.
@@ -48,7 +48,7 @@ AI-powered IDS for real-time and offline network traffic analysis.
 
 ---
 
-### ML-Based Phishing Detection Platform
+### Phishing URL and Email Analysis using NLP and Machine Learning
 > **URL & Email Phishing Detection**
 
 Machine learning platform for detecting phishing websites and emails.

@@ -41,7 +41,7 @@ AI-powered IDS for real-time and offline network traffic analysis.
 
 <p>
   <a href="https://github.com/Chinthan07/AI-Powered_Intrusion_Detection_System">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View%20Repository-238636?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
@@ -66,7 +66,6 @@ Machine learning platform for detecting phishing websites and emails.
 ---
 
 ### Network Vulnerability Scanner
-> **Network Discovery & Security Assessment**
 
 Python-based network scanner for discovering hosts and identifying vulnerabilities.
 
@@ -77,7 +76,7 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 
 <p>
   <a href="https://github.com/Chinthan07/Network_Vulnerability_Scanner">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=facc15">
   </a>
 </p>
 

@@ -76,7 +76,7 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 
 <p>
   <a href="https://github.com/Chinthan07/Network_Vulnerability_Scanner">
-    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github&logoColor=facc15">
+    <img src="https://img.shields.io/badge/View_Repository-24292e?style=flat-square&logo=github&logoColor=white">
   </a>
 </p>
 

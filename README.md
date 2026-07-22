@@ -41,7 +41,7 @@ AI-powered IDS for real-time and offline network traffic analysis.
 
 <p>
   <a href="https://github.com/Chinthan07/AI-Powered_Intrusion_Detection_System">
-    <img src="https://img.shields.io/badge/View%20Repository-238636?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/View%20Repository-ea580c?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 

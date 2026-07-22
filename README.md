@@ -129,6 +129,6 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 
 <div align="center">
 
-*Thanks for stopping by — feel free to explore my repos or connect with me!*
+*Thanks for stopping by — feel free to explore my repository or connect with me!*
 
 </div>

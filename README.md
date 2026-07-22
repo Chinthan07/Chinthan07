@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100">
 
-# Hi, I'm Chinthan B 👋
+# Hi, I'm Chinthan B
 
 ### 🛡️ Cybersecurity Enthusiast | 💻 Software Developer | 🛡️ Defensive Security | 🌐 Network Security | 📚 Continuous Learner
 
@@ -17,19 +17,19 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 
 Enthusiastic Computer Science graduate who has completed a Master of Engineering in Cybersecurity, with a foundational understanding of software development and algorithms, and a broad understanding of core cybersecurity domains including offensive and defensive security, digital forensics, and threat intelligence. Highly motivated and adaptable, eager to apply knowledge and contribute to secure, resilient, and innovative solutions in cybersecurity.
 
-- 🛡️ Comfortable across offensive & defensive security, network security, and threat intelligence
-- 🌱 Always looking to sharpen my skills and grow as part of a good team
-- 🌍 Based in Mangalore, Karnataka, India
-- ✉️ Reach me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
+- Comfortable across offensive & defensive security, network security, and threat intelligence
+- Always looking to sharpen my skills and grow as part of a good team
+- Based in Mangalore, Karnataka, India
+- Reach me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
 
 ---
-# 🚀 Featured Projects
+# Featured Projects
 
-### 🛡️ IntelliGuard IDS
+### IntelliGuard IDS
 > **AI-Powered Intrusion Detection System**
 
 AI-powered IDS for real-time and offline network traffic analysis.
@@ -48,7 +48,7 @@ AI-powered IDS for real-time and offline network traffic analysis.
 
 ---
 
-### 🎣 ML-Based Phishing Detection Platform
+### ML-Based Phishing Detection Platform
 > **URL & Email Phishing Detection**
 
 Machine learning platform for detecting phishing websites and emails.
@@ -67,7 +67,7 @@ Machine learning platform for detecting phishing websites and emails.
 
 ---
 
-### 🔍 Network Vulnerability Scanner
+### Network Vulnerability Scanner
 > **Network Discovery & Security Assessment**
 
 Python-based network scanner for discovering hosts and identifying vulnerabilities.
@@ -86,7 +86,7 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 ---
 
 
-### 🧰 Tech & Tools
+### Tech & Tools
 **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -109,7 +109,7 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chinthan07&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true" alt="Chinthan07's GitHub stats" />
@@ -126,12 +126,12 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 
 ---
 
-### 🏆 Certifications
+### Certifications
 
-- 🥇 **Bypass CTF** — Unstop Competition (Dec 2025)
-- 📜 **Google Cybersecurity Professional Certificate** — Coursera / Google (Feb 2025)
-- 🧪 **Cyber Analyst Job Simulation** — Forage / Tata Consultancy Services (Sep 2024)
-- 🔄 **Agile Methodology Job Simulation** — Forage / Cognizant (Aug 2023)
+- **Bypass CTF** — Unstop Competition (Dec 2025)
+- **Google Cybersecurity Professional Certificate** — Coursera / Google (Feb 2025)
+- **Cyber Analyst Job Simulation** — Forage / Tata Consultancy Services (Sep 2024)
+- **Agile Methodology Job Simulation** — Forage / Cognizant (Aug 2023)
 
 ---
 

@@ -107,15 +107,19 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 ---
 
 ### GitHub Stats
+
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=Chinthan07&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</div>
+---
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Chinthan07&theme=dracula&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinthan07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Commit%20Activity" alt="GitHub Commits Graph" />
 </div>
-
----
 
 ### Certifications
 

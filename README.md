@@ -59,7 +59,7 @@ Machine learning platform for detecting phishing websites and emails.
 
 <p>
    <a href="https://github.com/Chinthan07/Phishing_URL_and_Email_Analysis_using_NLP_and_Machine_Learning">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/View%20Repository-2f81f7?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 

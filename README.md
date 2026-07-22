@@ -41,8 +41,8 @@ AI-powered IDS for real-time and offline network traffic analysis.
 - 🔹 Streamlit dashboard with analytics & PDF reports
 
 <p>
-  <a href="https://github.com/Chinthan07">
-    <img src="https://img.shields.io/badge/Repository-Coming%20Soon-orange?style=for-the-badge">
+  <a href="https://github.com/Chinthan07/AI-Powered_Intrusion_Detection_System">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 
@@ -60,8 +60,8 @@ Machine learning platform for detecting phishing websites and emails.
 - 🔹 Bulk CSV analysis with Streamlit
 
 <p>
-  <a href="https://github.com/Chinthan07">
-    <img src="https://img.shields.io/badge/Repository-Coming%20Soon-orange?style=for-the-badge">
+   <a href="https://github.com/Chinthan07/Phishing_URL_and_Email_Analysis_using_NLP_and_Machine_Learning">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
   </a>
 </p>
 

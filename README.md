@@ -27,6 +27,7 @@ Enthusiastic Computer Science graduate who has completed a Master of Engineering
 - Reach me at [chinthanbolumbu23@gmail.com](mailto:chinthanbolumbu23@gmail.com)
 
 ---
+
 # Featured Projects
 
 ### AI - Powered Intrusion Detection System
@@ -120,7 +121,8 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinthan07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Commit%20Activity" alt="GitHub Commits Graph" />
 </div>
-
+ ---
+ 
 ### Certifications
 
 - **Bypass CTF** — Unstop Competition (Dec 2025)

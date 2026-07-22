@@ -116,6 +116,7 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinthan07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Commit%20Activity" alt="GitHub Commits Graph" />
 </div>
+ 
  ---
  
 ### Certifications

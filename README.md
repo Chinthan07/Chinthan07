@@ -30,7 +30,6 @@ Enthusiastic Computer Science graduate who has completed a Master of Engineering
 # Featured Projects
 
 ### AI - Powered Intrusion Detection System
-> **AI-Powered Intrusion Detection System**
 
 AI-powered IDS for real-time and offline network traffic analysis.
 
@@ -49,7 +48,6 @@ AI-powered IDS for real-time and offline network traffic analysis.
 ---
 
 ### Phishing URL and Email Analysis using NLP and Machine Learning
-> **URL & Email Phishing Detection**
 
 Machine learning platform for detecting phishing websites and emails.
 
@@ -110,18 +108,17 @@ Python-based network scanner for discovering hosts and identifying vulnerabiliti
 ---
 
 ### GitHub Stats
-
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Chinthan07&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true" alt="Chinthan07's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinthan07&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinthan07&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Chinthan07&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chinthan07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Commit%20Activity" alt="GitHub Commits Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinthan07&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=Commit%20Activity" alt="GitHub Commits Graph" />
 </div>
 
 ---
